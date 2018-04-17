@@ -1,0 +1,1 @@
+the constraints that we can enforce in our schema designs are that we if we allow the ruby code to rely too much itself, it can cost bugs or it may lead to errors. 
